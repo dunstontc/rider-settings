@@ -1,0 +1,2 @@
+# rider-settings
+🧠
