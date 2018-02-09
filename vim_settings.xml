@@ -27,10 +27,12 @@
         <mark key="." line="40" column="33" />
         <mark key="^" line="40" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/csharp/CodeWars/OddNumbers/OddNumbers/Program.cs" timestamp="1517329096506">
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Projects/csharp/COREport/sql_intro/SqlClient/ProductRepository.cs" timestamp="1518136290728">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="8" />
+        <mark key="." line="8" column="8" />
+        <mark key="^" line="8" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/TrueCoders/repos/LoggingKata/LoggingKata/packages.config" timestamp="1517594884432">
         <mark key="[" line="2" column="15" />
@@ -42,7 +44,6 @@
         <mark key="." line="25" column="160" />
         <mark key="^" line="25" column="160" />
       </file>
-      <file name="$USER_HOME$/Documents/TrueCoders/repos/SqlIntro/SqlIntro/ProductRepository.cs" timestamp="1518021584206" />
       <file name="$USER_HOME$/Documents/TrueCoders/repos/LoggingKata/LoggingKata/Point.cs" timestamp="1517598684498">
         <mark key="d" line="10" column="40" />
         <mark key="'" line="10" column="39" />
@@ -50,6 +51,56 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="12" column="13" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/csharp/COREport/sql_intro/sql_intro/Program.cs" timestamp="1518136086829">
+        <mark key="'" line="0" column="4" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/csharp/COREport/sql_intro/Shared/Product.cs" timestamp="1518136587350">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/csharp/CodeWars/AdamAndEve/AdamAndEve/Program.cs" timestamp="1517331018727">
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="21" column="31" />
+        <mark key="." line="21" column="31" />
+        <mark key="^" line="21" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/TrueCoders/repos/LoggingKata/LoggingKata.Test/ParserTest.cs" timestamp="1517845262520">
+        <mark key="'" line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/TrueCoders/repos/LoggingKata/LoggingKata/ITrackable.cs" timestamp="1517597533308">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/TrueCoders/repos/LoggingKata/LoggingKata/TacoParser.cs" timestamp="1517844923782">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="13" />
+        <mark key="." line="10" column="13" />
+        <mark key="^" line="10" column="13" />
+      </file>
+      <file name="$USER_HOME$/newTest/LoggingKata/LoggingKata/TacoParser.cs" timestamp="1517850948393">
+        <mark key="[" line="44" column="16" />
+        <mark key="]" line="44" column="18" />
+        <mark key="^" line="44" column="18" />
+        <mark key="." line="44" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/TrueCoders/repos/LoggingKata/LoggingKata/TacoBell.cs" timestamp="1517600106358">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/csharp/CodeWars/OddNumbers/OddNumbers/Program.cs" timestamp="1517329096506">
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/csharp/RiderProjects/ConsoleApplication1/Program.cs" timestamp="1516247637868">
         <mark key="[" line="10" column="31" />
@@ -63,12 +114,6 @@
         <mark key="]" line="8" column="102" />
         <mark key="." line="8" column="102" />
         <mark key="^" line="8" column="102" />
-      </file>
-      <file name="$USER_HOME$/Projects/csharp/CodeWars/AdamAndEve/AdamAndEve/Program.cs" timestamp="1517331018727">
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="21" column="31" />
-        <mark key="." line="21" column="31" />
-        <mark key="^" line="21" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/TrueCoders/repos/OnboardingApp/OnboardingApp/User.cs" timestamp="1517324774340">
         <mark key="[" line="37" column="31" />
@@ -97,36 +142,11 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="7" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/TrueCoders/repos/LoggingKata/LoggingKata.Test/ParserTest.cs" timestamp="1517845262520">
-        <mark key="'" line="48" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/TrueCoders/repos/LoggingKata/LoggingKata/ITrackable.cs" timestamp="1517597533308">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/TrueCoders/repos/LoggingKata/LoggingKata/TacoParser.cs" timestamp="1517844923782">
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="13" />
-        <mark key="." line="10" column="13" />
-        <mark key="^" line="10" column="13" />
-      </file>
       <file name="$USER_HOME$/Documents/TrueCoders/repos/LoggingKata/LoggingKata/Program.cs" timestamp="1517851206423">
         <mark key="[" line="19" column="18" />
         <mark key="]" line="19" column="18" />
         <mark key="^" line="19" column="18" />
         <mark key="." line="19" column="18" />
-      </file>
-      <file name="$USER_HOME$/newTest/LoggingKata/LoggingKata/TacoParser.cs" timestamp="1517850948393">
-        <mark key="[" line="44" column="16" />
-        <mark key="]" line="44" column="18" />
-        <mark key="^" line="44" column="18" />
-        <mark key="." line="44" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/TrueCoders/repos/LoggingKata/LoggingKata/TacoBell.cs" timestamp="1517600106358">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/csharp/RazorPagesMovie/Startup.cs" timestamp="1517251536943">
         <mark key="[" line="27" column="51" />
@@ -195,10 +215,26 @@
       <jump line="10" column="3" filename="$USER_HOME$/Documents/TrueCoders/repos/SqlIntro/SqlIntro/App.config" />
       <jump line="7" column="3" filename="$USER_HOME$/Documents/TrueCoders/repos/SqlIntro/SqlIntro/App.config" />
       <jump line="8" column="3" filename="$USER_HOME$/Documents/TrueCoders/repos/SqlIntro/SqlIntro/App.config" />
+      <jump line="10" column="4" filename="$USER_HOME$/Projects/csharp/COREport/sql_intro/sql_intro/Program.cs" />
+      <jump line="11" column="0" filename="$USER_HOME$/Projects/csharp/COREport/sql_intro/SqlClient/ProductRepository.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/csharp/COREport/sql_intro/SqlClient/ProductRepository.cs" />
+      <jump line="8" column="15" filename="$USER_HOME$/Projects/csharp/COREport/sql_intro/Shared/Product.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/csharp/COREport/sql_intro/Shared/Product.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>myDataBase</text>
+        <text>using System;
+
+namespace Shared
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine(&quot;Hello World!&quot;);
+        }
+    }
+}</text>
       </register>
       <register name="-" type="4">
         <text>myDataBase</text>
@@ -209,32 +245,64 @@
       <register name="0" type="4">
         <text>connectionstrings.com</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>using System;
+
+namespace Shared
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine(&quot;Hello World!&quot;);
+        }
+    }
+}</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+      <register name="2" type="4">
+        <text>using System;
+
+namespace SqlClient
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine(&quot;Hello World!&quot;);
+        }
+    }
+}</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>using System;
+
+namespace sql_intro
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine(&quot;Hello World!&quot;);
+        }
+    }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">fW15RGF0YUJhc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgTlVuaXQuRnJhbWV3b3JrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ci8qCiAqIFRlc3QgZm9yIG51bGwgc3RyaW5nCiAqIFRlc3QgZm9yIG5vIHZhbGlkIG51bWJlciB2YWx1ZXMuCiAqIFRlc3QgZm9yIHZhbGlkIG51bWJlciB2YWx1ZXMgd2l0aCBubyBkZXNjcmlwdGlvbi4KICovCm5hbWVzcGFjZSBMb2dnaW5nS2F0YS5UZXN0CnsKICAgIFtUZXN0Rml4dHVyZV0KICAgIHB1YmxpYyBjbGFzcyBUYWNvUGFyc2VyVGVzdEZpeHR1cmUKICAgIHsKICAgICAgICBbVGVzdF0KICAgICAgICBwdWJsaWMgdm9pZCBTaG91bGRSZXR1cm5OdWxsRm9yRW1wdHlTdHJpbmcoKQogICAgICAgIHsKICAgICAgICAgICAgY29uc3Qgc3RyaW5nIGVtcHR5U3RyaW5nID0gIiI7CiAgICAgICAgICAgIHZhciByZXMgPSBUYWNvUGFyc2VyLlBhcnNlKGVtcHR5U3RyaW5nKTsKICAgICAgICAgICAgQXNzZXJ0Lk51bGwocmVzKTsKICAgICAgICB9CgogICAgICAgIFtUZXN0XQogICAgICAgIHB1YmxpYyB2b2lkIFNob3VsZFBhcnNlTGluZSgpCiAgICAgICAgewogICAgICAgICAgICBjb25zdCBzdHJpbmcgZnVsbFN0cmluZyA9ICIiOwogICAgICAgICAgICB2YXIgcmVzID0gVGFjb1BhcnNlci5QYXJzZShmdWxsU3RyaW5nKTsKICAgICAgICAgICAgQXNzZXJ0LklzTm90TnVsbChyZXMpOwogICAgICAgIH0KICAgIH0KfQoK</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\.\.\.//g</text>
