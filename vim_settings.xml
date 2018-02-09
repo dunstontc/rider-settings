@@ -34,6 +34,12 @@
         <mark key="." line="8" column="8" />
         <mark key="^" line="8" column="8" />
       </file>
+      <file name="$USER_HOME$/Projects/csharp/COREport/SqlIntro/Dapper/ProductRepository.cs" timestamp="1518139166091">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="9" />
+        <mark key="^" line="5" column="9" />
+        <mark key="." line="5" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/TrueCoders/repos/OnboardingApp/OnboardingApp/Program.cs" timestamp="1517326235141">
         <mark key="[" line="25" column="153" />
         <mark key="]" line="25" column="160" />
@@ -98,7 +104,6 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/csharp/COREport/sql_intro/Dapper/ProductRepository.cs" timestamp="1518137776312" />
       <file name="$USER_HOME$/Projects/csharp/RiderProjects/ConsoleApplication1/Program.cs" timestamp="1516247637868">
         <mark key="[" line="10" column="31" />
         <mark key="]" line="10" column="33" />
