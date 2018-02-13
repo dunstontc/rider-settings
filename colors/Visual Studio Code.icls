@@ -5,7 +5,7 @@
     <property name="description" />
     <property name="ide">Rider</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2018-02-08T11:07:14</property>
+    <property name="modified">2018-02-12T21:04:10</property>
     <property name="originalScheme">_@user_Visual Studio Dark</property>
     <property name="vendorMail">dunstontc@gmail.com</property>
     <property name="vendorName">Clay Dunston</property>
@@ -230,6 +230,11 @@
       <value>
         <option name="FOREGROUND" value="608b4e" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_METADATA">
+      <value>
+        <option name="FOREGROUND" value="c586c0" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
