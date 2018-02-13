@@ -40,6 +40,12 @@
         <mark key="^" line="5" column="9" />
         <mark key="." line="5" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/csharp/DotNET/BethanysPieShop/BethanysPieShop/Views/Home/index.cshtml" timestamp="1518489339426">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="30" />
+        <mark key="^" line="16" column="30" />
+        <mark key="." line="16" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/TrueCoders/repos/OnboardingApp/OnboardingApp/Program.cs" timestamp="1517326235141">
         <mark key="[" line="25" column="153" />
         <mark key="]" line="25" column="160" />
@@ -73,6 +79,12 @@
         <mark key="]" line="21" column="31" />
         <mark key="." line="21" column="31" />
         <mark key="^" line="21" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/csharp/DotNET/BethanysPieShop/BethanysPieShop/Controllers/HomeController.cs" timestamp="1518488933676">
+        <mark key="[" line="26" column="71" />
+        <mark key="]" line="26" column="71" />
+        <mark key="^" line="26" column="71" />
+        <mark key="." line="26" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/TrueCoders/repos/LoggingKata/LoggingKata.Test/ParserTest.cs" timestamp="1517845262520">
         <mark key="'" line="48" column="0" />
@@ -222,24 +234,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/csharp/COREport/sql_intro/SqlClient/ProductRepository.cs" />
       <jump line="8" column="15" filename="$USER_HOME$/Projects/csharp/COREport/sql_intro/Shared/Product.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/csharp/COREport/sql_intro/Shared/Product.cs" />
+      <jump line="11" column="7" filename="$USER_HOME$/Projects/csharp/DotNET/BethanysPieShop/BethanysPieShop/Views/Home/index.cshtml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>using System;
-
-namespace Shared
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine(&quot;Hello World!&quot;);
-        }
-    }
-}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>myDataBase</text>
+        <text>clss=&quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text>\.\.\.</text>
@@ -247,64 +249,32 @@ namespace Shared
       <register name="0" type="4">
         <text>connectionstrings.com</text>
       </register>
-      <register name="1" type="4">
-        <text>using System;
-
-namespace Shared
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine(&quot;Hello World!&quot;);
-        }
-    }
-}</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>using System;
-
-namespace SqlClient
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine(&quot;Hello World!&quot;);
-        }
-    }
-}</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>using System;
-
-namespace sql_intro
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine(&quot;Hello World!&quot;);
-        }
-    }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8cD5AcGllLlNob3J0RGVzY3JpcHRpb248L3A+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fW15RGF0YUJhc2UK</text>
+        <text encoding="base64">ICAgICAgICA8L2gzPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIEBwaWUuTmFtZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA8aDM+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aDMgY2xhc3M9InB1bGwtcmlnaHQiPkBwaWUuUHJpY2UuVG9TdHJpbmcoImMiKTwvaDM+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iY2FwdGlvbiI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpCg==</text>
+        <text encoding="base64">ICAgICAgPGltZyBzcmM9IkBwaWUuSW1hZ2VUaHVtYm5haWxVcmwiIGFsdD0iIj4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/\.\.\.//g</text>
