@@ -9,11 +9,7 @@
         <mark key="." line="39" column="8" />
         <mark key="^" line="39" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/TrueCoders/repos/LoggingKata/LoggingKata/Taco_Bell-US-AL.csv" timestamp="1517844357174">
-        <mark key="'" line="236" column="34" />
-        <mark key="[" line="1" column="31" />
-      </file>
-      <file name="$USER_HOME$/Projects/csharp/dotnet-db-with-docker/server/DapperProductRepository.cs" timestamp="1518810176199">
+      <file name="$USER_HOME$/Projects/csharp/dotnet-db-with-docker/server/DapperProductRepository.cs" timestamp="1518812121090">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="75" column="1" />
@@ -59,6 +55,12 @@
         <mark key="]" line="25" column="160" />
         <mark key="." line="25" column="160" />
         <mark key="^" line="25" column="160" />
+      </file>
+      <file name="$USER_HOME$/Projects/csharp/dotnet-db-with-docker/server/Program.cs" timestamp="1518813315968">
+        <mark key="[" line="12" column="113" />
+        <mark key="]" line="12" column="125" />
+        <mark key="." line="12" column="125" />
+        <mark key="^" line="12" column="125" />
       </file>
       <file name="$USER_HOME$/Documents/TrueCoders/repos/LoggingKata/LoggingKata/Point.cs" timestamp="1517598684498">
         <mark key="d" line="10" column="40" />
@@ -267,10 +269,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SqlIntro</text>
+        <text>;SqlConnection(connectionString);</text>
       </register>
       <register name="-" type="4">
-        <text>SqlIntro</text>
+        <text>;SqlConnection(connectionString);</text>
       </register>
       <register name="/" type="4">
         <text>\.\.\.</text>
@@ -278,32 +280,32 @@
       <register name="0" type="4">
         <text>connectionstrings.com</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgU3FsSW50cm87Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICBzdGF0aWMgdm9pZCBNYWluKHN0cmluZ1tdIGFyZ3MpCiAgICAgICAgewogICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZSgiSGVsbG8gV29ybGQhIik7CiAgICAgICAgfQ==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">dXNpbmcgU3FsSW50cm87Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgU3FsSW50cm87Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGhvdXJzID0gIiI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGhvdXJzID0gIiI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBGb3JtYXREdXJhdGlvbgo=</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vLyA8L3N1bW1hcnk+Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBGb3JtYXREdXJhdGlvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\.\.\.//g</text>
