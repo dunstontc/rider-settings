@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/TrueCoders/repos/RefactorKata/RefactorKata/Program.cs" timestamp="1516805319876">
@@ -121,7 +121,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.nuget/packages/mysql.data/6.10.4/contentFiles/any/netstandard1.3/web.config.transform" timestamp="1518988827034" />
+      <file name="$USER_HOME$/Projects/DailyCodingProblems/BinarySearch/BinarySearch/Program.cs" timestamp="1519231444471" />
       <file name="$USER_HOME$/Projects/csharp/CodeWars/OddNumbers/OddNumbers/Program.cs" timestamp="1517329096506">
         <mark key="[" line="21" column="31" />
         <mark key="]" line="31" column="0" />
