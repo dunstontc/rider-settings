@@ -1,0 +1,7 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '.../AspNetCoreKata/Views/Shared/_Layout.cshtml'" />
+    <option name="defaultScopeName" value="File '.../AspNetCoreKata/Views/Shared/_Layout.cshtml'" />
+    <option name="SEARCH_SCOPE" value="File '.../AspNetCoreKata/Views/Shared/_Layout.cshtml'" />
+  </component>
+</application>
