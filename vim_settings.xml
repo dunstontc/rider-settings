@@ -96,6 +96,10 @@
         <mark key="^" line="28" column="27" />
         <mark key="." line="28" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/TrueCoders/repos/CS/AspNetCoreKata/AspNetCoreKata/Views/Product/Edit.cshtml" timestamp="1519672211244">
+        <mark key="'" line="29" column="36" />
+        <mark key="[" line="39" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/TrueCoders/repos/LoggingKata/LoggingKata.Test/ParserTest.cs" timestamp="1517845262520">
         <mark key="'" line="48" column="0" />
       </file>
@@ -121,7 +125,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/DailyCodingProblems/BinarySearch/BinarySearch/Program.cs" timestamp="1519231444471" />
       <file name="$USER_HOME$/Projects/csharp/CodeWars/OddNumbers/OddNumbers/Program.cs" timestamp="1517329096506">
         <mark key="[" line="21" column="31" />
         <mark key="]" line="31" column="0" />
@@ -267,6 +270,7 @@
       <jump line="16" column="32" filename="$USER_HOME$/Projects/csharp/DotNET/BethanysPieShop/BethanysPieShop/Views/Home/index.cshtml" />
       <jump line="76" column="1" filename="$USER_HOME$/Projects/csharp/dotnet-db-with-docker/server/DapperProductRepository.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/csharp/dotnet-db-with-docker/server/DapperProductRepository.cs" />
+      <jump line="29" column="36" filename="$USER_HOME$/Documents/TrueCoders/repos/CS/AspNetCoreKata/AspNetCoreKata/Views/Product/Edit.cshtml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -276,7 +280,7 @@
         <text>;SqlConnection(connectionString);</text>
       </register>
       <register name="/" type="4">
-        <text>\.\.\.</text>
+        <text>modelItem</text>
       </register>
       <register name="0" type="4">
         <text>connectionstrings.com</text>
@@ -309,17 +313,17 @@
         <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBGb3JtYXREdXJhdGlvbgo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/\.\.\.//g</text>
+        <text>%s/modelItem/model/g</text>
       </register>
     </registers>
     <search>
-      <last-search>\.\.\.</last-search>
+      <last-search>modelItem</last-search>
       <last-offset />
-      <last-pattern>\.\.\.</last-pattern>
-      <last-replace />
-      <last-substitute>\.\.\.</last-substitute>
+      <last-pattern>modelItem</last-pattern>
+      <last-replace>model</last-replace>
+      <last-substitute>modelItem</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -329,6 +333,7 @@
         <entry encoding="base64">VGFjbyBCZWxsIA==</entry>
         <entry>...</entry>
         <entry>\.\.\.</entry>
+        <entry>modelItem</entry>
       </history-search>
       <history-cmd>
         <entry>pwd</entry>
@@ -339,6 +344,7 @@
         <entry>noh</entry>
         <entry>%s/...//g</entry>
         <entry>%s/\.\.\.//g</entry>
+        <entry>%s/modelItem/model/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
