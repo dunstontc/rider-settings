@@ -5,7 +5,7 @@
     <property name="description" />
     <property name="ide">Rider</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2018-02-12T21:04:10</property>
+    <property name="modified">2018-02-26T11:33:15</property>
     <property name="originalScheme">_@user_Visual Studio Dark</property>
     <property name="vendorMail">dunstontc@gmail.com</property>
     <property name="vendorName">Clay Dunston</property>
@@ -58222,35 +58222,35 @@
     <option name="ReSharper.ASP_NET_MVC_ACTION">
       <value>
         <option name="FOREGROUND" value="dcdcaa" />
-        <option name="EFFECT_COLOR" value="a52a2a" />
+        <option name="EFFECT_COLOR" value="d4d4d4" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="ReSharper.ASP_NET_MVC_AREA">
       <value>
         <option name="FOREGROUND" value="9cdcfe" />
-        <option name="EFFECT_COLOR" value="a52a2a" />
+        <option name="EFFECT_COLOR" value="d4d4d4" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="ReSharper.ASP_NET_MVC_CONTROLLER">
       <value>
         <option name="FOREGROUND" value="c586c0" />
-        <option name="EFFECT_COLOR" value="a52a2a" />
+        <option name="EFFECT_COLOR" value="d4d4d4" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="ReSharper.ASP_NET_MVC_VIEW">
       <value>
         <option name="FOREGROUND" value="9cdcfe" />
-        <option name="EFFECT_COLOR" value="a52a2a" />
+        <option name="EFFECT_COLOR" value="d4d4d4" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="ReSharper.ASP_NET_MVC_VIEW_COMPONENT">
       <value>
         <option name="FOREGROUND" value="9cdcfe" />
-        <option name="EFFECT_COLOR" value="a52a2a" />
+        <option name="EFFECT_COLOR" value="d4d4d4" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
