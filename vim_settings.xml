@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/TrueCoders/repos/RefactorKata/RefactorKata/Program.cs" timestamp="1516805319876">
@@ -124,6 +124,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/csharp/RiderProjects/UsingAnApi/UsingAnApi.Shared/User.cs" timestamp="1520277067518">
+        <mark key="[" line="100" column="42" />
+        <mark key="]" line="101" column="7" />
+        <mark key="^" line="101" column="7" />
+        <mark key="." line="101" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/csharp/CodeWars/OddNumbers/OddNumbers/Program.cs" timestamp="1517329096506">
         <mark key="[" line="21" column="31" />
@@ -323,7 +329,7 @@
       <last-replace>model</last-replace>
       <last-substitute>modelItem</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
