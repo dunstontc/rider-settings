@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/TrueCoders/repos/RefactorKata/RefactorKata/Program.cs" timestamp="1516805319876">
@@ -14,6 +14,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="75" column="1" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/TrueCoders/repos/MobileGitHub/MobileGitHub/Controllers/HomeController.cs" timestamp="1520358081827">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="11" />
+        <mark key="^" line="12" column="11" />
+        <mark key="." line="12" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/csharp/CodeWars/Katas/Katas/Program.cs" timestamp="1518617152327">
         <mark key="[" line="55" column="27" />
@@ -49,6 +55,12 @@
         <mark key="]" line="16" column="7" />
         <mark key="^" line="16" column="7" />
         <mark key="." line="16" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/TrueCoders/repos/MobileGitHub/Shared/Class1.cs" timestamp="1520358026705">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="22" />
+        <mark key="." line="5" column="26" />
+        <mark key="^" line="4" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/TrueCoders/repos/OnboardingApp/OnboardingApp/Program.cs" timestamp="1517326235141">
         <mark key="[" line="25" column="153" />
@@ -289,46 +301,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>username</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>username</text>
       </register>
       <register name="/" type="4">
         <text>modelItem</text>
       </register>
-      <register name="0" type="4">
-        <text>connectionstrings.com</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBbSnNvblByb3BlcnR5KCJlbWFpbCIpXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUaGlzIG1ldGhvZCBnZXRzIGNhbGxlZCBieSB0aGUgcnVudGltZS4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBVc2UgdGhpcyBtZXRob2QgdG8gY29uZmlndXJlIHRoZSBIVFRQIHJlcXVlc3QgcGlwZWxpbmUuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICBzdGF0aWMgdm9pZCBNYWluKHN0cmluZ1tdIGFyZ3MpCiAgICAgICAgewogICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZSgiSGVsbG8gV29ybGQhIik7CiAgICAgICAgfQ==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgU3FsSW50cm87Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgU3FsSW50cm87Cg==</text>
-      </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGhvdXJzID0gIiI7Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIGdyYXZhdGFyX2lkIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBbSnNvblByb3BlcnR5KCJncmF2YXRhcl9pZCIpXQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUaGlzIG1ldGhvZCBnZXRzIGNhbGxlZCBieSB0aGUgcnVudGltZS4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBVc2UgdGhpcyBtZXRob2QgdG8gY29uZmlndXJlIHRoZSBIVFRQIHJlcXVlc3QgcGlwZWxpbmUuCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICBzdGF0aWMgdm9pZCBNYWluKHN0cmluZ1tdIGFyZ3MpCiAgICAgICAgewogICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZSgiSGVsbG8gV29ybGQhIik7CiAgICAgICAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">dXNpbmcgU3FsSW50cm87Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/modelItem/model/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -360,6 +372,7 @@
         <entry>%s/...//g</entry>
         <entry>%s/\.\.\.//g</entry>
         <entry>%s/modelItem/model/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -376,6 +389,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
