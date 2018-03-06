@@ -100,9 +100,6 @@
         <mark key="'" line="29" column="36" />
         <mark key="[" line="39" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/TrueCoders/repos/LoggingKata/LoggingKata.Test/ParserTest.cs" timestamp="1517845262520">
-        <mark key="'" line="48" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/TrueCoders/repos/LoggingKata/LoggingKata/ITrackable.cs" timestamp="1517597533308">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -130,6 +127,11 @@
         <mark key="]" line="101" column="7" />
         <mark key="^" line="101" column="7" />
         <mark key="." line="101" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/TrueCoders/repos/MobileGitHub/MobileGitHub/Controllers/Home.cs" timestamp="1520356720158">
+        <mark key="]" line="28" column="1" />
+        <mark key="^" line="28" column="1" />
+        <mark key="." line="28" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/csharp/CodeWars/OddNumbers/OddNumbers/Program.cs" timestamp="1517329096506">
         <mark key="[" line="21" column="31" />
@@ -177,9 +179,6 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/TrueCoders/repos/LoggingKata/LoggingKata/Taco_Bell-US-AL-Alabama - Copy.csv" timestamp="1517596528568">
-        <mark key="'" line="10" column="93" />
-      </file>
       <file name="$USER_HOME$/Documents/TrueCoders/repos/SqlIntro/SqlIntro/App.config" timestamp="1518021373587">
         <mark key="d" line="8" column="4" />
         <mark key="'" line="8" column="3" />
@@ -187,6 +186,14 @@
         <mark key="]" line="7" column="8" />
         <mark key="^" line="8" column="3" />
         <mark key="." line="7" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/TrueCoders/repos/MobileGitHub/MobileGitHub/Startup.cs" timestamp="1520356475690">
+        <mark key="d" line="0" column="0" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="58" column="1" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/csharp/dotnet-db-with-docker/server/DbCommandHelper.cs" timestamp="1518810201587">
         <mark key="[" line="7" column="10" />
@@ -277,13 +284,15 @@
       <jump line="76" column="1" filename="$USER_HOME$/Projects/csharp/dotnet-db-with-docker/server/DapperProductRepository.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/csharp/dotnet-db-with-docker/server/DapperProductRepository.cs" />
       <jump line="29" column="36" filename="$USER_HOME$/Documents/TrueCoders/repos/CS/AspNetCoreKata/AspNetCoreKata/Views/Product/Edit.cshtml" />
+      <jump line="4" column="11" filename="$USER_HOME$/Documents/TrueCoders/repos/MobileGitHub/MobileGitHub/Startup.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/TrueCoders/repos/MobileGitHub/MobileGitHub/Startup.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;SqlConnection(connectionString);</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>;SqlConnection(connectionString);</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>modelItem</text>
@@ -291,32 +300,32 @@
       <register name="0" type="4">
         <text>connectionstrings.com</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICBzdGF0aWMgdm9pZCBNYWluKHN0cmluZ1tdIGFyZ3MpCiAgICAgICAgewogICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZSgiSGVsbG8gV29ybGQhIik7CiAgICAgICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUaGlzIG1ldGhvZCBnZXRzIGNhbGxlZCBieSB0aGUgcnVudGltZS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgU3FsSW50cm87Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBVc2UgdGhpcyBtZXRob2QgdG8gY29uZmlndXJlIHRoZSBIVFRQIHJlcXVlc3QgcGlwZWxpbmUuCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgU3FsSW50cm87Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICBzdGF0aWMgdm9pZCBNYWluKHN0cmluZ1tdIGFyZ3MpCiAgICAgICAgewogICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZSgiSGVsbG8gV29ybGQhIik7CiAgICAgICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgU3FsSW50cm87Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGhvdXJzID0gIiI7Cg==</text>
+        <text encoding="base64">dXNpbmcgU3FsSW50cm87Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGhvdXJzID0gIiI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBGb3JtYXREdXJhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/modelItem/model/g</text>
